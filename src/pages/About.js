@@ -26,7 +26,7 @@ function About() {
                     <Card.Header>Contact Me</Card.Header>
                     <Card.Body>
                       <Card.Text>
-                        <section  className='contact'>
+                        <section  className='contact-section'>
                           <span  className="icon-gap">
                               <a href="https://www.linkedin.com/in/victoria-rice-360/" target="_blank">
                                 <img className="icons" alt="LinkedIn link" src={LI} />
@@ -34,11 +34,11 @@ function About() {
                           </span>
                           <span  className="icon-gap">
                               <a href="https://github.com/vtori37" target="_blank">
-                                <img className="icons" alt="GitHub link" src={GH} />
+                                <img className="icons icons-github" alt="GitHub link" src={GH} />
                               </a>
                           </span>
                           <span  className="icon-gap">
-                            <OverlayTrigger overlay={<Tooltip>vrice360@gmail.com</Tooltip>}>
+                            <OverlayTrigger placement="top" overlay={<Tooltip >vrice360@gmail.com</Tooltip>}>
                               <img className="icons-email" alt="Email Address" src={EM} />
                             </OverlayTrigger>            
                           </span>

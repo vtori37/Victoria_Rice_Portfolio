@@ -7,7 +7,20 @@
   justify-content: center;
   align-items: center;
 }
+.contact-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+}
 
+.card-header:first-child {
+ text-align: center;
+}
+
+.icons-github {
+  margin-left: 5px;
+}
 .icons {
   width: 40px;
 }
@@ -15,11 +28,12 @@
 .icons-email {
   width: 55px
 }
-.icon-gap {
+/* .icon-gap {
   padding-right: 10px;
+  padding-left: 10px;
 }
 
 .icon-div {
   margin-top: 20px;
   margin-bottom: -10px;
-}
+} */
