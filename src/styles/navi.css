@@ -1,0 +1,15 @@
+.navbar {
+  margin: 20px 0 20px 0;
+  /* border-bottom: 5px solid #000000; */
+}
+
+.footer {
+  margin-bottom: 0;
+  padding: 30px;
+  position:fixed;
+  left: 0;
+  right:0;
+  bottom: 0;
+  height: 60px;
+  width: 100%,
+};

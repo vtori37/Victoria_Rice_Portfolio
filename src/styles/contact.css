@@ -1,0 +1,25 @@
+.contactForm {
+  margin-top: 40px;
+}
+
+.contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icons {
+  width: 40px;
+}
+
+.icons-email {
+  width: 55px
+}
+.icon-gap {
+  padding-right: 10px;
+}
+
+.icon-div {
+  margin-top: 20px;
+  margin-bottom: -10px;
+}

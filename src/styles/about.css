@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-weight: 350;
+  line-height: 1;
+  font-size: 18px;
+}
+.content-body {
+  margin:auto;
+  padding: 0 30px 0 30px;
+}
+
+.about {
+  text-align: center;
+  padding-bottom: 10px;
+
+}
+.img-box {
+  align-items: center;
+  padding-top: 60px;
+} 
+.profile-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+  height: 30%;
+  box-shadow: 2px 2px 2px 1px rgba(127, 105, 106, 0.246);
+}
+
+.about-me {
+  padding: 20px 35px 0 10px;
+}
+
+.card-text {
+  border-top: 2px solid rgb(121, 100, 101, 0.6);
+  border-radius: 2px;
+}
+
