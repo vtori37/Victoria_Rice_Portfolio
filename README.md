@@ -26,7 +26,6 @@ Here is a link to the deployed application:
 * JS
 * React
 * Bootstrap
-* Heroku
 
 ### Questions
 If you have any questions or concerns regarding this project, feel free to reach out to Victoria Rice at vrice360@gmail.com.
