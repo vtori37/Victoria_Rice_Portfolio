@@ -51,7 +51,7 @@ function Portfolio() {
                 <Card.Text>
                 Feels Like Films is a web applicaiton that allows users to get movie recommendations based on the current weather of a city. The genre of the recommendations correlates to the type of weather. Users can also choose to save the films they want onto a wish list.
                 </Card.Text>
-                <a href="'https://github.com/vtori37/Group-Project-1" target="_blank">
+                <a href="https://github.com/vtori37/Group-Project-1" target="_blank">
                   <Button variant="outline-info">Project GitHub Repository</Button>{' '}
                   </a>
               </Card.Body>
