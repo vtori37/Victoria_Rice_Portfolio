@@ -10,7 +10,7 @@ import LI from '../pictures/blk-ln.png';
 import GH from '../pictures/GitHub-Mark-120px-plus.png';
 import DL from '../pictures/download.png'
 import emailjs from '@emailjs/browser';
-import ResumePDF from '../pictures/Victoria_Rice_2022_Resume.pdf'
+import ResumePDF from '../pictures/Victoria_Rice_Resume_2022.pdf'
 // require('dotenv').config()
 
 
