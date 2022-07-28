@@ -5,7 +5,6 @@ import Navi from './components/Navi';
 import Footer from './components/Footer.js';
 import About from './pages/About.js';
 import Portfolio from './pages/Portfolio.js';
-import Resume from './pages/Resume.js';
 
 function App() {
   return (
@@ -16,7 +15,6 @@ function App() {
           <Route path="/" element={<About />} />
           <Route path="/About" element={<About />} />
           <Route path="portfolio" element={<Portfolio />} />
-          <Route path="resume" element={<Resume />} />
         </Routes>
         <Footer />
      </Router>

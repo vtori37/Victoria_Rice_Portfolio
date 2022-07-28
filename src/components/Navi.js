@@ -16,7 +16,7 @@ function Navi() {
       <Nav className="ms-auto">
         <Nav.Link as={Link} to="/About">About</Nav.Link>
         <Nav.Link as={Link} to="/portfolio">Portfolio</Nav.Link>
-        <Nav.Link as={Link} to="/resume">Resume</Nav.Link>
+        {/* <Nav.Link as={Link} to="/resume">Resume</Nav.Link> */}
         {/* <Nav.Link as={Link} to="/contact">Contact</Nav.Link> */}
       </Nav>
       </Navbar.Collapse>

@@ -29,3 +29,7 @@
 .resume-btn {
 align-content: center;
 }
+
+Button {
+  margin-top: 15px;
+}
