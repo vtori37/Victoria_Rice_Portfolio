@@ -3,7 +3,7 @@ import "../styles/navi.css"
 
 const Footer = () => {
   return (
-    <footer className=" footer w-100 mt-auto bg-secondary p-4">
+    <footer className="footer w-100 mt-auto bg-secondary p-4 foot-margin">
       <div className="container text-light">&copy;2020 by Victoria Rice</div> 
     </footer>
   );

@@ -11,5 +11,9 @@
   right:0;
   bottom: 0;
   height: 60px;
-  width: 100%,
+  width: 100%;
 };
+
+.foot-margin {
+  margin-top: 30px;
+}

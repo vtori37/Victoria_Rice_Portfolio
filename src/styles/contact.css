@@ -1,26 +1,46 @@
-.contactForm {
-  margin-top: 40px;
+.card-size {
+  width:100%;
+}
+.contact-header {
+  text-align: center;
+  margin-top: 25px;
 }
 
-.contact {
+.icon-card {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
   align-items: center;
+  justify-content: center;
 }
-.contact-section {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-left: 10px;
+
+.list-group-item {
+  padding: 10px
+}
+.contact-form {
+  margin-top: 30px;
+}
+
+.container-col {
+  margin-bottom: 30px;
 }
 
 .card-header:first-child {
  text-align: center;
 }
 
-.icons-github {
+.icons-img-padding {
   margin-left: 5px;
 }
+.icons {
+  width: 40px;
+  margin-top: 5px;
+  margin-right: 15px;
+}
+
+.contactForm {
+  margin-top: 40px;
+}
+
 .icons {
   width: 40px;
 }
@@ -28,12 +48,125 @@
 .icons-email {
   width: 55px
 }
-/* .icon-gap {
+.icon-gap {
   padding-right: 10px;
-  padding-left: 10px;
 }
 
 .icon-div {
   margin-top: 20px;
   margin-bottom: -10px;
-} */
+}
+
+.blue {
+  color: rgb(107, 198, 228);
+}
+
+.projects-contact {
+    border: 2px solid #af9f9f;
+    border-radius: 10px ;
+    padding: 20px;
+    box-shadow: 6px 4px 8px #62515236;
+}
+
+label {
+  padding-right: 10px;
+  padding-top: 10px;
+}
+
+ul {
+  padding: 0;
+  margin: 0
+}
+
+li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 10px;
+  display: block;
+  position: relative;
+}
+
+input[type=text], input[type=email] {
+  width: 100%;
+  border-radius: 10px;
+  border: none;
+  background-color: #8d808136;
+  padding: 10px 35px
+}
+textarea {
+  width: 100%;
+  height: 70px;
+  border: none;
+  background-color:#8d808136;
+  padding: 15px 35px;
+  border-radius: 10px
+}
+
+input[type=submit] {
+  color: #ffffff;
+  border: none;
+  background-color:#53454667;
+  padding: 15px 35px;
+  margin: 5px 3px;
+  border-radius: 10px
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+.submit-btn {
+  margin-top: 20px;
+}
+@media only screen and (min-width: 769px) {
+ 
+  .contact-header {
+    margin-top: 0
+  }
+  .icon-card {
+    margin: 0 10px;
+    padding: 0 20px;
+  }
+ }
+
+@media only screen and (max-width: 768px) {
+ 
+  .icon-card{
+    margin-top: 20px;
+  }
+ }
+
+@media only screen and (max-width: 400px) {
+ 
+  .icon-card{
+    margin-top: 20px;
+  }
+  
+  .list-group-item {
+    width: 100%;
+  }
+  img {
+    padding-bottom: 10px;
+  }
+  a {
+    font-size: 15px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+
+  input[type=text], input[type=email] {
+    font-size: 15px;
+    padding-left: 10px;
+  }
+  textarea {
+    font-size: 15px;
+    padding-left: 10px;
+  }
+}
+
+
+
