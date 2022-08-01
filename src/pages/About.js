@@ -58,15 +58,22 @@ function About() {
             <Card.Title>About Me</Card.Title>
             <Card.Text className="card-text">
             <p>
-            I have a desire to learn more about technical design as well as web development. This includes my enrollment in UT-Austin’s Coding Boot Camp, where I am in training to become a full-stack web developer. Currently, I am deepening my understanding of newly acquired skills in HTML, JavaScript, CSS, Node.js, and MySQL. I plan to further broaden my knowledge of web development by learning TypeScript, Java, Python, and C#. In addition, I practice photography and my photo editing skills in Adobe Lightroom and Photoshop in my spare time. 
+            I am a full-stack web developer who aims to leverage my background in Business Administration in International Business to bridge communication between web development and product management. 
             </p>
             <br></br>
             <p>
-            I am a quick learner and creative problem-solver, who is highly organized and takes initiative.  I value the importance of interpersonal skills and am a strong communicator. Using these skills, I serve as a product manager at an e-commerce startup. My experience in this position has inspired me to pursue opportunities where I may leverage my degree in Business Administration in International Business to bridge communication between web development and product management. 
+            I completed the University of Texas at Austin’s Coding Boot Camp Certificate Program, where I deepened my understanding of HTML, JavaScript, CSS, MySQL, Node.js, and React. I plan to broaden my knowledge by learning TypeScript, Java, Python, and C#. In my spare time, I practice sharpening my photography and photo editing skills in Adobe Lightroom and Photoshop.
             </p>
             <br></br>
             <p>
-            I am actively learning and look forward to new career opportunities, so please feel free to contact me if you would like to connect!
+            I value the importance of critical thinking and have been described as a creative problem-solver with strong interpersonal skills. Using these skills, I served as a product manager at an e-commerce startup, where I worked with web developers to design the preliminary UI/UX designs of the website. </p>
+            <br></br>
+            <p>
+            I've always had a deep appreciation for the art of storytelling as I believe it promotes human togetherness and understanding. Whether it's through my projects or collaborating with others, my goal is to aid in the cultivation of ideas and the creation of stories that utilize various mediums such as film, animation, video games, and digital media.
+            </p>
+            <br></br>
+            <p>
+            I am actively learning and look forward to new opportunities. Please feel free to contact me if you would like to connect!
             </p>
             </Card.Text>
           </Card.Body>
