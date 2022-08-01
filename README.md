@@ -16,7 +16,7 @@ Created using React, this application serves as a portfolio website that include
 
 ## Website
 Here is a link to the deployed application:
-[Victoria's Portfolio](https://victoria-port.herokuapp.com/About)
+[Victoria's Portfolio](https://victoria-rice-port.herokuapp.com/)
 
 ## Author
 [Victoria Rice](https://github.com/vtori37)
